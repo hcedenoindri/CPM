@@ -1,6 +1,6 @@
-# Final Assignment, Group 9
+# CS484 Project, Fall 2021
 
-## Members
+## Group 9
 * Hector Cedeno-Indriago
 * Jonathan Chen
 * Bryan Emer
